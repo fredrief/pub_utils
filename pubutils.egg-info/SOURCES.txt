@@ -1,7 +1,0 @@
-setup.py
-pubutils.egg-info/PKG-INFO
-pubutils.egg-info/SOURCES.txt
-pubutils.egg-info/dependency_links.txt
-pubutils.egg-info/entry_points.txt
-pubutils.egg-info/requires.txt
-pubutils.egg-info/top_level.txt

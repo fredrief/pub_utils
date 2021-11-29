@@ -1,4 +1,0 @@
-numpy
-shlib
-click
-pandas
